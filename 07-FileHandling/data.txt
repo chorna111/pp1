@@ -1,0 +1,4 @@
+Name:Anastasiia
+Surname:Chorna
+University:UEK
+Field of study:Applied Informatics

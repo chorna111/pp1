@@ -1,0 +1,6 @@
+a=input('Enter a product')
+f=open('shopping.txt','a')
+f.write(f"{a}\n")
+f.close()
+f=open('shopping.txt','r')
+print(f.read())
