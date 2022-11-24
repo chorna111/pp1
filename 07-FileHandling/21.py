@@ -4,3 +4,4 @@ for i in range(1,11):
 f.close()
 f=open('smth.txt','r')
 print(f.read())
+f.close()
