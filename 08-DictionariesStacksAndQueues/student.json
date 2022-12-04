@@ -1,0 +1,11 @@
+{
+     "name": "Jan",
+     "surname": "Nowak",
+     "age": 18,
+     "field of studies": "applied informatics",
+     "grades": {
+          "pp": "4",
+          "ask": "5",
+          "english": "5"
+     }
+}
